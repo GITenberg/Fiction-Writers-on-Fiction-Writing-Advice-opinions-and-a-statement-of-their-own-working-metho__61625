@@ -1,0 +1,29 @@
+_repo: Fiction-Writers-on-Fiction-Writing-Advice-opinions-and-a-statement-of-their-own-working-metho__61625
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Hoffman, Arthur Sullivant
+    gutenberg_agent_id: '51529'
+    url: http://www.gutenberg.org/2009/agents/51529
+description: ''
+gutenberg_issued: '2020-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61625'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Fiction Writers on Fiction Writing
+
+  Advice, opinions and a statement of their own working
+
+  methods by more than one hundred authors'
+url: http://www.gutenberg.org/ebooks/61625
